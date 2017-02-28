@@ -1,0 +1,11 @@
+{
+    "version":"0.1",
+    "manifest-vesion":"1",
+    "name":"Sin City Fun Page manifest file",
+    "icons":{
+        "16":"favicon.ico",
+        "32":"favicon.ico",
+        "48":"favicon.ico",
+        "96":"favicon.ico",
+    }
+}
